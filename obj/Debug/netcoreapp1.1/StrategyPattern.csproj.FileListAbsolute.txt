@@ -1,0 +1,9 @@
+C:\Dev\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.deps.json
+C:\Dev\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.runtimeconfig.json
+C:\Dev\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.runtimeconfig.dev.json
+C:\Dev\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.dll
+C:\Dev\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.pdb
+C:\Dev\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Dev\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.AssemblyInfo.cs
+C:\Dev\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.dll
+C:\Dev\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.pdb
